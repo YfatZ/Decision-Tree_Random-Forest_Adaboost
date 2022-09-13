@@ -1,5 +1,8 @@
 # Decision-Tree_Random-Forest_Adaboost
-**Cancer Classification Assignment for a project in Machine Learning using Decision Tree, Random Forest and Adaboost**
+**Cancer Classification Assignment for a project in Machine Learning using Decision Tree, Random Forest and Adaboost.**<br>
+**Using Python programming language.**<br><br>
+<img src="https://user-images.githubusercontent.com/66127805/189974965-13a441f4-de14-4a5c-84e1-fd3d941125b5.png" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/66127805/189975182-2c2c346a-bfc7-4f0c-801a-3ac50227eaf6.png" width="70" height="70">
 
 This assignment was for a project in Machine Learning I had to predict a cancer class - benign or malignant.<br>
 <sub>The Dataset for the assignment is included as "cancer_classification.csv" .</sub>
